@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "category_name": "Physical Health",
+      "articles": [
+        {
+          "id": 1,
+          "title": "Staying Hydrated: A Daily Necessity",
+          "summary": "Explores the essential role water plays in energy, skin health, and digestion.",
+          "tips": {
+            "how_to": [
+              "Drink 2–3 liters of water daily.",
+              "Include hydrating foods like cucumbers and melons.",
+              "Use hydration reminder apps."
+            ],
+            "benefits": [
+              "Increased energy and reduced fatigue.",
+              "Better skin hydration and elasticity.",
+              "Improved digestion and metabolism."
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "title": "Movement Matters: Daily Physical Activity",
+          "summary": "Discusses why regular movement improves heart, muscle, and mental health.",
+          "tips": {
+            "how_to": [
+              "Take walking breaks during work.",
+              "Use stairs instead of elevators.",
+              "Join a fitness class or sports group."
+            ],
+            "benefits": [
+              "Improved cardiovascular and muscular strength.",
+              "Better mental focus and reduced stress.",
+              "Increased energy and sleep quality."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category_name": "Mental & Emotional Health",
+      "articles": [
+        {
+          "id": 3,
+          "title": "Unplug to Recharge: Digital Detox",
+          "summary": "Explains how taking breaks from screens can improve mental clarity.",
+          "tips": {
+            "how_to": [
+              "Limit screen time before bed.",
+              "Schedule phone-free meals.",
+              "Practice offline hobbies like journaling or painting."
+            ],
+            "benefits": [
+              "Reduced eye strain and anxiety.",
+              "Improved sleep and social interaction.",
+              "Enhanced focus and real-world engagement."
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "title": "Calm in Chaos: Practicing Mindfulness",
+          "summary": "Provides simple ways to incorporate mindfulness into your daily life.",
+          "tips": {
+            "how_to": [
+              "Start your day with 5 minutes of deep breathing.",
+              "Use mindfulness apps or timers.",
+              "Reflect through journaling each evening."
+            ],
+            "benefits": [
+              "Greater self-awareness and emotional control.",
+              "Reduced symptoms of anxiety and stress.",
+              "Improved mood and patience in daily tasks."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
